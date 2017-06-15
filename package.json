@@ -1,0 +1,16 @@
+{
+  "name": "express_app_1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "express first tutorial app",
+  "main": "expresstut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0"
+  }
+}

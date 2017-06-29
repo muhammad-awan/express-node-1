@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Express with NODE
 
 To get all the required node modules:
@@ -16,8 +16,3 @@ To start web server on localhost, in your cli:
 ```
 node express.js
 ```
-
-
-=======
-## Express NODE
->>>>>>> c2c4c9c71d5d0b14ee6bab39179d2ba16288c293
